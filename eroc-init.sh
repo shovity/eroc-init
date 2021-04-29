@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 __dirname=`dirname "$(readlink -f "$0")"`
 __secret=`openssl rand -base64 12`
 

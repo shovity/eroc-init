@@ -6,6 +6,6 @@
   "author": "shovity <shovity@hub_development_1>",
   "license": "MIT",
   "bin": {
-    "eroc-init": "./eroc-init"
+    "eroc-init": "./eroc-init.sh"
   }
 }
