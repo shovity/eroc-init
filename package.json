@@ -1,11 +1,10 @@
 {
   "name": "eroc-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eroc app generator",
   "repository": "https://github.com/shovity/eroc-init.git",
   "author": "shovity <shovity@hub_development_1>",
   "license": "MIT",
-
   "bin": {
     "eroc-init": "./eroc-init"
   }
