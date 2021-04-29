@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+
+  _app_name_:
+    image: _app_name_
+    build: .
+    environment:
+      NODE_ENV: production
+    restart: always
+    networks:
+      - backend
+
+networks:
+  backend:
+    name: backend
